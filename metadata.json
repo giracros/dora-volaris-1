@@ -1,0 +1,5 @@
+{
+  "description": "Volaris Test Plan Agent powered by Gemini. Creates manual functional test plans for iOS and Android from Jira and Confluence inputs.",
+  "requestFramePermissions": [],
+  "name": "Volaris Test Plan Agent"
+}
